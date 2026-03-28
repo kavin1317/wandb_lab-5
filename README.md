@@ -86,7 +86,7 @@ All hyperparameters are tracked in the WandB config and can be modified in the `
 
 ```
 lab2-sklearn-digits-wandb/
-├── Lab2.ipynb          # Main training notebook
+├── wandb.ipynb          # Main training notebook
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
 └── .gitignore          # Git ignore rules
