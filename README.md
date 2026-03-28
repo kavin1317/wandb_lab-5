@@ -60,7 +60,7 @@ You will be prompted for your API key. Get it from [https://wandb.ai/authorize](
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook Lab2.ipynb
+jupyter notebook wandb.ipynb
 ```
 
 Run all cells. Training progress and visualizations will appear in your WandB dashboard under the project **Lab2-Sklearn-Digits-CNN**.
